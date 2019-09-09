@@ -5,11 +5,11 @@ li {
 }
 
 .navbar-header {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Montserrat;
     font-weight: bold;
 }
 
-h3 {
+h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0px 0px;
     font-weight: bold;
@@ -63,14 +63,6 @@ p {
 .container {
     max-width: 850px;
     padding: 10px;
-    
-}
-@media screen and ( min-width:992){
-    .container {
-        width: 650px;
-        padding: 10px;
-        
-    }
 
 }
 
@@ -79,6 +71,17 @@ p {
     height: auto;
     position: relative;
     margin-bottom: 10px;
+}
+
+.container-grey{
+    background-color: rgb(77, 76, 76);
+    height: 40px;
+    margin-bottom: 5px;
+    color: #fff;
+    text-align: center;
+}
+.container-grey p{
+    padding: 10px 0px;
 }
 
 .box {
@@ -98,10 +101,12 @@ p {
 }
 
 .contact {
-    margin-top: 40px;
-    margin-left:30px;
-    margin-right:30px;
+    margin: 40px 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.address {
+    margin-top: 80px;
 }
 
 
@@ -126,5 +131,10 @@ input {
 .footer {
     font-size: 20px;
     font-weight: bold;
-    color:#fff;
+    color: #fff;
+}
+
+.foot {
+    margin-top: 40px;
+    margin-left: 10%;
 }
