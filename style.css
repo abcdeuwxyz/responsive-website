@@ -1,3 +1,4 @@
+
 li {
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -8,36 +9,45 @@ li {
     font-family: Montserrat;
     font-weight: bold;
 }
+h3{
+    font-family: Montserrat;
+}
 
 h2 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* */
+    font-family: Montserrat;
     margin: 0px 0px;
     font-weight: bold;
 }
 
 h4 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* */
+    font-family: Montserrat;
     font-weight: 10;
-    color: blue;
+    color: #3e70ce;
     margin-top: 40px;
 }
 
 h5 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
     margin: 30px 0px;
 }
 
 h6 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
 }
 
 p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
     margin: 10px 0px;
 }
 
 .description {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Lato;
 }
 
 .logo-text {
@@ -45,13 +55,13 @@ p {
 }
 
 .heading {
-    color: blue;
+    color: #667bdb;
     font-weight: 50;
     margin: 30px 0px;
 }
 
 .headingthree {
-    color: blue;
+    color: #77a6e9;
     font-weight: 10;
 }
 
@@ -82,6 +92,7 @@ p {
 }
 .container-grey p{
     padding: 10px 0px;
+    font-family: Lato;
 }
 
 .box {
@@ -90,7 +101,8 @@ p {
 }
 
 .btn {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
     margin: 10px 0px;
 }
 
@@ -102,7 +114,8 @@ p {
 
 .contact {
     margin: 40px 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
 }
 
 .address {
@@ -111,7 +124,8 @@ p {
 
 
 .details {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* */
+    font-family: Montserrat;
     color: brown;
     font-weight: bold;
     font-size: 20px;
@@ -132,6 +146,7 @@ input {
     font-size: 20px;
     font-weight: bold;
     color: #fff;
+    
 }
 
 .foot {
