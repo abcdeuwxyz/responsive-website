@@ -1,4 +1,3 @@
-
 li {
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -9,7 +8,8 @@ li {
     font-family: Montserrat;
     font-weight: bold;
 }
-h3{
+
+h3 {
     font-family: Montserrat;
 }
 
@@ -29,24 +29,24 @@ h4 {
 }
 
 h5 {
-   /* */
+    /* */
     font-family: Montserrat;
     margin: 30px 0px;
 }
 
 h6 {
-   /* */
+    /* */
     font-family: Montserrat;
 }
 
 p {
-   /* */
+    /* */
     font-family: Montserrat;
     margin: 10px 0px;
 }
 
 .description {
-   /* */
+    /* */
     font-family: Lato;
 }
 
@@ -83,14 +83,15 @@ p {
     margin-bottom: 10px;
 }
 
-.container-grey{
+.container-grey {
     background-color: rgb(77, 76, 76);
     height: 40px;
     margin-bottom: 5px;
     color: #fff;
     text-align: center;
 }
-.container-grey p{
+
+.container-grey p {
     padding: 10px 0px;
     font-family: Lato;
 }
@@ -101,7 +102,7 @@ p {
 }
 
 .btn {
-   /* */
+    /* */
     font-family: Montserrat;
     margin: 10px 0px;
 }
@@ -114,7 +115,7 @@ p {
 
 .contact {
     margin: 40px 30px;
-   /* */
+    /* */
     font-family: Montserrat;
 }
 
@@ -124,7 +125,7 @@ p {
 
 
 .details {
-   /* */
+    /* */
     font-family: Montserrat;
     color: brown;
     font-weight: bold;
@@ -146,7 +147,7 @@ input {
     font-size: 20px;
     font-weight: bold;
     color: #fff;
-    
+
 }
 
 .foot {
